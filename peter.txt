@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Peter
+=======
+Hallo
+>>>>>>> 134073ffd9bd97136a3dac59ea82756169efa707
